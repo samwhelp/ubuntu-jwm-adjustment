@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+
+#picom &
+
+
+nm-applet &
+
+
+variety &
+
+
+mate-volume-control-status-icon &
+
+
+plank &
+
+
+fcitx5 -d &
+
+
+/usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
